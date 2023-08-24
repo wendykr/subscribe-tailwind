@@ -1,3 +1,3 @@
 export default {
-  base: "/subscribe-tailwind-vite/"
+  base: "/subscribe-tailwind/"
 }
